@@ -1,6 +1,8 @@
 <h1 align="center">My Trips</h1>
 <p align="center">Aplicação desenvolvida com NextJS, Styled-components, Typescript e GraphQL.</p>
 
+### Readme em construção...
+
 
 ### 🛠 Tecnologias
 
@@ -13,6 +15,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [GraphCMS](https://graphcms.com/)
 - [Leaflet](https://leafletjs.com/)
 - [Mapbox](https://www.mapbox.com/)
+
+Acesse a aplicação online: [MyTrips](https://my-trips-lime.vercel.app/)
 
 <h1>📱 Como usar? </h1> 
 
