@@ -11,6 +11,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-components](https://styled-components.com/)
 - [GraphQL](https://graphql.org/)
 - [GraphCMS](https://graphcms.com/)
+- [Leaflet](https://leafletjs.com/)
+- [Mapbox](https://www.mapbox.com/)
 
 <h1>📱 Como usar? </h1> 
 
